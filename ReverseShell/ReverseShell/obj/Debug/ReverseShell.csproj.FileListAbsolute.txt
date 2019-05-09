@@ -1,0 +1,7 @@
+C:\Users\hjawad\source\repos\ReverseShell\ReverseShell\bin\Debug\ReverseShell.exe.config
+C:\Users\hjawad\source\repos\ReverseShell\ReverseShell\bin\Debug\ReverseShell.exe
+C:\Users\hjawad\source\repos\ReverseShell\ReverseShell\bin\Debug\ReverseShell.pdb
+C:\Users\hjawad\source\repos\ReverseShell\ReverseShell\obj\Debug\ReverseShell.csproj.CoreCompileInputs.cache
+C:\Users\hjawad\source\repos\ReverseShell\ReverseShell\obj\Debug\ReverseShell.exe
+C:\Users\hjawad\source\repos\ReverseShell\ReverseShell\obj\Debug\ReverseShell.pdb
+C:\Users\hjawad\source\repos\ReverseShell\ReverseShell\obj\Debug\ReverseShell.csprojAssemblyReference.cache
